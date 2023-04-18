@@ -4,7 +4,7 @@ import os.path
 
 # 设置请求的URL和参数
 url = 'https://polkadot.api.subscan.io/api/scan/transfers'
-api_key = '4a33096d8d0d4b52acfe6151fec5cb34'
+api_key = 'xxxxxxxxxxxxxx'
 headers = {
     'Content-Type': 'application/json',
     'X-API-Key': api_key

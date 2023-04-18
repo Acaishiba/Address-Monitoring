@@ -11,8 +11,8 @@ import sys
 url = 'https://polkadot.api.subscan.io/api/scan/transfers'
 url_v2 = 'https://polkadot.api.subscan.io/api/v2/scan/search'
 url3 = 'https://polkadot.api.subscan.io/api/scan/metadata'
-api_key1 = '4a33096d8d0d4b52acfe6151fec5cb34'
-api_key2 = '67c0f369625748d7b6d9d372019cbeac'
+api_key1 = 'xxxxxxxxxx'
+api_key2 = 'xxxxxxxxxx2'
 headers1 = {
     'Content-Type': 'application/json',
     'X-API-Key': api_key1
